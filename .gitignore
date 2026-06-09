@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.local
+.env
+.env.local
+
+# 测试文件（不上传）
+*.pdf
+*.zip
+.trae/
